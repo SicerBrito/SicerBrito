@@ -1,6 +1,9 @@
 <h1 align="center">console.log("Hello World 👋 ");</h1>
 <h2 align="center">I'm Sicer Andres Brito Gutierrez</h2>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
+<div align="center">
+  <a href="#"><img src="https://i.ibb.co/XXydCvj/dino-run-ending.gif" alt="dino-run-ending" border="0" autoplay loop></a>
+</div>
 
 - 📫 How to reach me **britodelgado514@gmail.com**
 
