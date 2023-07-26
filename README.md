@@ -5,11 +5,17 @@
   <a href="#"><img src="https://i.ibb.co/XXydCvj/dino-run-ending.gif" alt="dino-run-ending" border="0" ></a>
 </div>
 
+<p>I am a Web Developer with experience in dynamic
+and demanding environments, standing out for
+achieving significant results. My ability to face challenges and adapt quickly has
+allowed me to excel in various projects, demonstrating strong technical skills and a resultsoriented approach. </p>
 - 📫 How to reach me **britodelgado514@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sicer-andres-brito-gutierrez-181610273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sicer-andres-brito-gutierrez-181610273/" height="30" width="40" /></a>
+<a href="https://dev.to/sicerbrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sicerbrito" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@SicerBrito#1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[SicerBrito](https://discord.com/channels/@SicerBrito#1610)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
