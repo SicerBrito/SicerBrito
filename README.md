@@ -2,7 +2,7 @@
 <h2 align="center">I'm Sicer Andres Brito Gutierrez</h2>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 <div align="center">
-  <a href="#"><img src="https://i.ibb.co/XXydCvj/dino-run-ending.gif" alt="dino-run-ending" border="0" ></a>
+  <a href="#"><img src="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" alt="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" border="0" width="200px"></a>
 </div>
 
 <p>I am a Web Developer with experience in dynamic
