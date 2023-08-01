@@ -24,6 +24,7 @@ allowed me to excel in various projects, demonstrating strong technical skills a
 
 <h2 align="center">GitHub Stats:</h2>
 <div>
+  <h3 align="center">Contributions in the last year </h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake.svg" />
