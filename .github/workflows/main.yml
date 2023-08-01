@@ -30,7 +30,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
           
           
       # push the content of <build_dir> to a branch
@@ -41,6 +41,6 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
 
     
