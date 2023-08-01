@@ -23,6 +23,13 @@ allowed me to excel in various projects, demonstrating strong technical skills a
 
 
 <h2 align="center">GitHub Stats:</h2>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=SicerBrito&count_private=true&show_icons=true&theme=radical" />
