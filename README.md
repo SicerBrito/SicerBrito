@@ -8,7 +8,7 @@
 <p>I am a Web Developer with experience in dynamic
 and demanding environments, standing out for
 achieving significant results. My ability to face challenges and adapt quickly has
-allowed me to excel in various projects, demonstrating strong technical skills and a resultsoriented approach. </p>
+allowed me to excel in various projects, demonstrating strong technical skills and a resultsoriented approach. <img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="35"> </p>
 - 📫 How to reach me **britodelgado514@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
