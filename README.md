@@ -1,8 +1,4 @@
-<div style="background-image: url(https://media3.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47hfu84pmh8vk2mo5wohm7vxo4hcx1gu3ye1664zcy&ep=v1_gifs_search&rid=giphy.gif&ct=g);
-    background-size: cover;
-    background-repeat: no-repeat;">
-  
-<h1 align="center">console.log(" ¡Hello World! 👋 ");</h1>
+<h1 align="center">console.log(" ¡Hello World! <img src="https://www.emojiall.com/images/60/telegram/1f44b.gif" width="40px"> ");</h1>
 <h2 align="center">I'm Sicer Andres Brito Gutierrez 🧑‍💻</h2>
 <h3 align="center">A passionate fullstack developer from Colombia 🇨🇴</h3>
 <div align="center">
@@ -42,4 +38,3 @@ allowed me to excel in various projects, demonstrating strong technical skills a
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=SicerBrito&bg_color=141321&color=F24194&line=FFB2D0&point=f02e88&area=true&hide_border=false" />
 </div>
 
-</div>
