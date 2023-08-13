@@ -1,6 +1,10 @@
+<div style="background-image: url(https://media3.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47hfu84pmh8vk2mo5wohm7vxo4hcx1gu3ye1664zcy&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    background-size: cover;
+    background-repeat: no-repeat;">
+  
 <h1 align="center">console.log(" ¡Hello World! 👋 ");</h1>
-<h2 align="center">I'm Sicer Andres Brito Gutierrez</h2>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<h2 align="center">I'm Sicer Andres Brito Gutierrez 🧑‍💻</h2>
+<h3 align="center">A passionate fullstack developer from Colombia 🇨🇴</h3>
 <div align="center">
   <a href="#"><img src="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" alt="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" border="0" width="200px"></a>
 </div>
@@ -36,4 +40,6 @@ allowed me to excel in various projects, demonstrating strong technical skills a
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=SicerBrito&count_private=true&show_icons=true&theme=radical" />
   <img width="425" src="https://streak-stats.demolab.com/?user=SicerBrito&theme=radical"/>
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=SicerBrito&bg_color=141321&color=F24194&line=FFB2D0&point=f02e88&area=true&hide_border=false" />
+</div>
+
 </div>
