@@ -1,6 +1,6 @@
 <h1 align="center">console.log(" ¡Hello World! <img src="https://www.emojiall.com/images/60/telegram/1f44b.gif" width="40px"> ");</h1>
 <h2 align="center">I'm Sicer Andres Brito Gutierrez 🧑‍💻</h2>
-<h3 align="center">A passionate fullstack developer from Colombia 🇨🇴</h3>
+<h3 align="center">A passionate fullstack developer from Colombia</h3>
 <div align="center">
   <a href="#"><img src="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" alt="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" border="0" width="200px"></a>
 </div>
@@ -8,7 +8,7 @@
 <p>I am a Web Developer with experience in dynamic
 and demanding environments, standing out for
 achieving significant results. My ability to face challenges and adapt quickly has
-allowed me to excel in various projects, demonstrating strong technical skills and a resultsoriented approach. <img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="35"> </p>
+allowed me to excel in various projects, demonstrating strong technical skills and a resultsoriented approach <img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="35"> </p>
 - 📫 How to reach me **britodelgado514@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
