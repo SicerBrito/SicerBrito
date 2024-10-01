@@ -9,7 +9,12 @@
 and demanding environments, standing out for
 achieving significant results. My ability to face challenges and adapt quickly has
 allowed me to excel in various projects, demonstrating strong technical skills and a resultsoriented approach <img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="35"> </p>
-- 📫 How to reach me **britodelgado514@gmail.com**
+
+- 📫 How to reach me
+
+  - Mail: **britodelgado514@gmail.com**
+  - Discord: **SicerBrito#1610**
+  - WhatsApp: **+573204843733**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
