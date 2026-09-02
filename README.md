@@ -1,126 +1,114 @@
-<h1 align="center">console.log(" ¡Hello World! <img src="https://www.emojiall.com/images/60/telegram/1f44b.gif" width="40px"> ");</h1>
-<h2 align="center">I'm Sicer Andres Brito Gutierrez 🧑‍💻</h2>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
 <div align="center">
-  <a href="#"><img src="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" alt="https://images-ext-1.discordapp.net/external/QnVImQyFbJR_0BfXUHeB2kgMmJnI1zoUUaAU4k8Af_s/https/i.gifer.com/XOsX.gif" border="0" width="200px"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:301F56,100:8B5FFC&text=Sicer%20Brito&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=L%C3%ADder%20de%20Desarrollo%20%C2%B7%20Full%20Stack%20.NET%20y%20Angular&descAlignY=54&descSize=17" width="100%" />
+
+<a href="https://www.ahdollc.com"><img src="https://img.shields.io/badge/Ver_la_plataforma_en_vivo-ahdollc.com-8B5FFC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sicer-andres-brito-gutierrez"><img src="https://img.shields.io/badge/LinkedIn-301F56?style=for-the-badge" /></a>
+<a href="mailto:jobdevbrito@gmail.com"><img src="https://img.shields.io/badge/Correo-301F56?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
-<p>I am a Web Developer with experience in dynamic
-and demanding environments, standing out for
-achieving significant results. My ability to face challenges and adapt quickly has
-allowed me to excel in various projects, demonstrating strong technical skills and a resultsoriented approach <img src="https://www.emojiall.com/images/animations/joypixels/64px/writing_hand.gif" width="35"> </p>
-
-- 📫 How to reach me
-
-  - Mail: **britodelgado514@gmail.com**
-  - Discord: **SicerBrito#1610**
-  - WhatsApp: **+573204843733**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sicer-andres-brito-gutierrez-181610273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sicer-andres-brito-gutierrez-181610273/" height="30" width="40" /></a>
-<a href="https://dev.to/sicerbrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sicerbrito" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@SicerBrito#1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[SicerBrito](https://discord.com/channels/@SicerBrito#1610)" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-## 💻 Lenguajes de Programación
-- **Lenguajes Core:**
-  - Python
-  - JavaScript
-  - TypeScript
-  - C#
-  - PHP
-  - Dart
-  - Bash
-
-## 🌐 Desarrollo Web
-- **Tecnologías Frontend:**
-  - HTML5
-  - CSS3
-  - SCSS
-  - JavaScript
-  - Bootstrap
-  - Angular
-- **Tecnologías Backend:**
-  - .NET
-  - ASP.NET Core
-  - PHP
-
-## 🗃️ Bases de Datos
-- Relacionales:
-  - MySQL
-  - PostgreSQL
-- NoSQL:
-  - MongoDB
-
-## ☁️ Infraestructura y Herramientas
-- **Control de Versiones:**
-  - Git
-- **Cloud & DevOps:**
-  - Docker
-  - AWS
-- **Diseño y Prototipado:**
-  - Figma
-  - Adobe Photoshop
-- **Desarrollo y Testing:**
-  - Postman
-  - Linux
-
-## 📱 Desarrollo Móvil y Embebido
-- Flutter
-- Dart
-- Arduino
-
-## 🛠️ Otras Habilidades
-- Sistemas Operativos
-- Entornos de Desarrollo
-- Metodologías Ágiles
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core" target="_blank" rel="noreferrer"> <img src="https://c0.klipartz.com/pngpicture/673/239/gratis-png-entidad-framework-core-asp-net-core-net-framework-microsoft.png" alt="ASP.NET Core" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
-
-
-
-<h2 align="center">GitHub Stats:</h2>
-<div>
-  <h3 align="center">Contributions in the last year </h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+---
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=SicerBrito&count_private=true&show_icons=true&theme=radical" />
-  <img width="425" src="https://streak-stats.demolab.com/?user=SicerBrito&theme=radical"/>
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=SicerBrito&bg_color=141321&color=F24194&line=FFB2D0&point=f02e88&area=true&hide_border=false" />
+
+### Construyo y opero **[AHDO](https://www.ahdollc.com)**, una plataforma SaaS B2B2C multi-tenant<br>de formación y evaluación empresarial.
+
+Entré como único desarrollador y la llevé de cero a producción.<br>Hoy lidero su equipo técnico.
+
+<br>
+
+<img src="https://img.shields.io/badge/204-Empresas_cliente-301F56?style=for-the-badge&labelColor=8B5FFC" />
+<img src="https://img.shields.io/badge/11.210-Matr%C3%ADculas-301F56?style=for-the-badge&labelColor=8B5FFC" />
+<img src="https://img.shields.io/badge/8.224-Certificados-301F56?style=for-the-badge&labelColor=8B5FFC" />
+<img src="https://img.shields.io/badge/73%25-Finalizaci%C3%B3n-301F56?style=for-the-badge&labelColor=00944A" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/88-APIs_REST-AAAAFF?style=flat-square&labelColor=301F56" />
+<img src="https://img.shields.io/badge/718-Endpoints-AAAAFF?style=flat-square&labelColor=301F56" />
+<img src="https://img.shields.io/badge/99-Tablas-AAAAFF?style=flat-square&labelColor=301F56" />
+<img src="https://img.shields.io/badge/146-Migraciones-AAAAFF?style=flat-square&labelColor=301F56" />
+<img src="https://img.shields.io/badge/3-Entornos-AAAAFF?style=flat-square&labelColor=301F56" />
+
 </div>
 
+---
+
+## 🔒 Sobre este perfil
+
+**Mi trabajo del día a día vive en repositorios privados**, así que lo que ves
+publicado acá no es lo que realmente construyo. Si quieres ver el resultado, la
+plataforma está en vivo y en operación: **[ahdollc.com](https://www.ahdollc.com)**
+
+Lo que sí publico son plantillas, esqueletos de proyecto y guías técnicas que
+escribo para mi equipo.
+
+---
+
+## 🛠 Con lo que trabajo
+
+**Backend**
+
+<img src="https://img.shields.io/badge/C%23-301F56?style=for-the-badge" />
+<img src="https://img.shields.io/badge/.NET_8-301F56?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-301F56?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-301F56?style=for-the-badge&logo=nuget&logoColor=white" />
+<img src="https://img.shields.io/badge/Hangfire-301F56?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Polly-301F56?style=for-the-badge" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/Angular_17-8B5FFC?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-8B5FFC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/RxJS-8B5FFC?style=for-the-badge&logo=reactivex&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-8B5FFC?style=for-the-badge&logo=sass&logoColor=white" />
+
+**Datos**
+
+<img src="https://img.shields.io/badge/PostgreSQL-007FB8?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-007FB8?style=for-the-badge" />
+
+**Infraestructura**
+
+<img src="https://img.shields.io/badge/AWS-5A4C7A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-5A4C7A?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/IIS-5A4C7A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-5A4C7A?style=for-the-badge&logo=git&logoColor=white" />
+
+---
+
+## 🔌 Integraciones que he llevado a producción
+
+| | |
+|---|---|
+| 💳 **Wompi** | Pasarela de pagos con conciliación automática de transacciones |
+| 🧾 **Siigo / DIAN** | Facturación electrónica ante la autoridad tributaria colombiana |
+| 🤖 **Anthropic Claude** | IA generativa en dos flujos de negocio |
+| 🎥 **BunnyCDN** | Streaming de video con control de progreso |
+| 📄 **JasperReports** | Reportes PDF con subreportes |
+| ⚙️ **Hangfire** | Trabajos en segundo plano y envíos masivos |
+
+---
+
+## 📐 Cómo trabajo
+
+Cada módulo nace de un **plan técnico escrito y aprobado antes de la primera
+línea de código**, con criterios de aceptación y plan de reversa.
+
+Es lo que permite que **20 módulos de negocio** y unas **197.000 líneas** los
+sostenga un equipo de **dos personas**.
+
+El método, con plantillas reutilizables, está publicado acá 👇
+
+<a href="https://github.com/SicerBrito/spec-driven-development"><img src="https://img.shields.io/badge/📘_Spec--Driven_Development-El_m%C3%A9todo_completo-8B5FFC?style=for-the-badge" /></a>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:8B5FFC,100:301F56" width="100%" />
+
+**¿Hablamos?** · [jobdevbrito@gmail.com](mailto:jobdevbrito@gmail.com) · [LinkedIn](https://linkedin.com/in/sicer-andres-brito-gutierrez) · [ahdollc.com](https://www.ahdollc.com)
+
+</div>
