@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:301F56,100:8B5FFC&text=Sicer%20Brito&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=L%C3%ADder%20de%20Desarrollo%20%C2%B7%20Full%20Stack%20.NET%20y%20Angular&descAlignY=54&descSize=17" width="100%" />
 
 <a href="https://www.ahdollc.com"><img src="https://img.shields.io/badge/Ver_la_plataforma_en_vivo-ahdollc.com-8B5FFC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sicer-andres-brito-gutierrez"><img src="https://img.shields.io/badge/LinkedIn-301F56?style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/sicer-brito"><img src="https://img.shields.io/badge/LinkedIn-301F56?style=for-the-badge" /></a>
 <a href="mailto:jobdevbrito@gmail.com"><img src="https://img.shields.io/badge/Correo-301F56?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -109,6 +109,6 @@ El método, con plantillas reutilizables, está publicado acá 👇
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:8B5FFC,100:301F56" width="100%" />
 
-**¿Hablamos?** · [jobdevbrito@gmail.com](mailto:jobdevbrito@gmail.com) · [LinkedIn](https://linkedin.com/in/sicer-andres-brito-gutierrez) · [ahdollc.com](https://www.ahdollc.com)
+**¿Hablamos?** · [jobdevbrito@gmail.com](mailto:jobdevbrito@gmail.com) · [LinkedIn](https://linkedin.com/in/sicer-brito) · [ahdollc.com](https://www.ahdollc.com)
 
 </div>
